@@ -12,7 +12,9 @@ body{
 html{
     scroll-behavior: smooth;
 }
-
+.h{
+    display: none;
+}
 /* Navigation bar */
 nav{
     max-width: 100vw;
