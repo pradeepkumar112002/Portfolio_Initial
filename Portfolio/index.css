@@ -352,12 +352,12 @@ a{
         align-items: center;
     }
     .fourth .left-course{
-        max-width: 100%;
+        min-width: 80vw;
         margin: 10px;
         
     }
     .fourth .right-course{
-        max-width: 100%;
+        min-width: 80vw;
         margin: 10px;
         
     }
